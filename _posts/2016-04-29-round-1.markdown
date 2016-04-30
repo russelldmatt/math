@@ -9,44 +9,54 @@ I have *no* idea how hard/easy this will be for you, so I hope you're not offend
 
 One thing to mention up front.  I'm going to try not to give you any questions that I know we ask in actual jane street interviews.  However, if I slip up and you're asked a question in your interview that I've already given to you, it's totally OK - just tell them that you've heard it before and they'll move on with another question.
 
+Another thing - there are *a lot* of good brain teaser sites out there.  Here are a few:
+
+- [Ultimate Puzzle Site](http://www.puzzle.dse.nl/teasers/index_us.html)
+- [Tech Interview](http://www.techinterview.org/)
+- [fivethirtyeight - the Riddler](http://fivethirtyeight.com/tag/the-riddler/) (hard)
+
 ### (fair) Coin flipping ###
 
-What's the probabilty I flip 3 heads in a row?
+`What's the probabilty I flip 3 heads in a row`?
 
-If I flip 4 coins, what's the probability I flip exactly 2 heads?
+`If I flip 4 coins, what's the probability I flip exactly 2 heads`?
 
 ### 6 sided die ###
 
-If I roll 2 dice, what's P(double ones)?
+`If I roll 2 dice, what's P(double ones)`?
 
-If I roll 2 dice, what's P(first dice does not equal second dice)?
+`If I roll 2 dice, what's P(first dice does not equal second dice)`?
 
-A magician holds one six-sided die in his left hand and two in his right. What is the probability the number on the dice in his left hand is greater than the sum of the dice in his right?
+A magician holds one six-sided die in his left hand and two in his right. `What is the probability the number on the dice in his left hand is greater than the sum of the dice in his right`?
 
 ### Combinatorics ###
 
-If I have 4 shirts, 2 pants, and 3 pairs of shoes, how many different outfits can I make?
+`If I have 4 shirts, 2 pants, and 3 pairs of shoes, how many different outfits can I make`?
 
-10 kids in a class are going to line up in a row.  How many different ways can they line up?
+10 kids in a class are going to line up in a row.  `How many different ways can they line up`?
 
-Same 10 kids from above, but this time I'm going to pick a group of them to go on a field trip.  How many different groups can I make?
+Same 10 kids from above, but this time I'm going to pick a group of them to go on a field trip.  `How many different groups can I make`?
 
 ### Try to do in your head ###
 
-What's the sum of 1-100?
+`What's the sum of 1-100`?
 
-How many factors does 36 have?
+`How many factors does 36 have`?
 
 ### Logic ###
 
+#### Hats ####
 (actual brain teaser)
-In a small village in the middle of nowhere, three innocent prisoners, A, B, and C, are sitting in a jail. One day, the cruel jailer takes them out and places them in a line on three chairs, in such a way that man C can see both man A and man B, man B can see only man A, and man A can see none of the other men. The jailer shows them 5 hats, 2 of which are black and 3 of which are white. After this, he blindfolds the men, places one hat on each of their heads, and removes the blindfolds again. The jailer tells his three prisoners that if one of them is able to determine the color of his hat within one minute, all of them are released. Otherwise, they will all be executed. None of the prisoners can see his own hat, and all are intelligent. After 59 seconds, man A shouts out the (correct) color of his hat! What is the color and how did he know?
 
-Square grid:
+In a small village in the middle of nowhere, three innocent prisoners, A, B, and C, are sitting in a jail. One day, the cruel jailer takes them out and places them in a line on three chairs, in such a way that man C can see both man A and man B, man B can see only man A, and man A can see none of the other men. The jailer shows them 5 hats, 2 of which are black and 3 of which are white. After this, he blindfolds the men, places one hat on each of their heads, and removes the blindfolds again. The jailer tells his three prisoners that if one of them is able to determine the color of his hat within one minute, all of them are released. Otherwise, they will all be executed. None of the prisoners can see his own hat, and all are intelligent. After 59 seconds, man A shouts out the (correct) color of his hat!
 
-<img src="{{ site.baseurl }}/assets/square-grid.png" style="width:350px"/>
+`What is the color and how did he know`?
 
-You can only travel along the edges of this square grid.  You can move either right or to the left.  How many different paths can you make from the bottom left to the top right?
+#### Square grid ####
+
+<img src="{{ site.baseurl }}/assets/square-grid.png" style="width:100px"/>
+
+You can only travel along the edges of this square grid.  You can move either right or to the left.  `How many different paths can you make from the bottom left to the top right`?
 
 
 
