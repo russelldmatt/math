@@ -10,7 +10,7 @@ title: Math stuff
 email: russell.d.matt@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Some math questions/brain-teasers for Jonas.	    
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/math" # the subpath of your site, e.g. /blog
 url: "http://russelldmatt.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
