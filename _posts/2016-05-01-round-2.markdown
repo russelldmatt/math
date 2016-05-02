@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Round 2"
+published: true
+---
+
+<hr>
+`Square grid from round 1 (with correct wording)`
+
+<hr>
+`How many factors does 10,752 have`?
+
+<hr>
+I have 9 grapes, one apple, and one orange. A meal consists of some number of grapes (could be zero), some number of apples (could be zero), and some number of oranges (could be zero).  `How many meals can I make`?
+
+<hr>
+10 kids in a class, let's say they're numbered 1 through 10.
+
+If I was going to pick a group of kids (of any size, including zero) to go on a field trip - you already know how many ways I can do that.  But, what if kids #2 and #4 hate each other.  The group won't work if it has both kids #2 and #4.  `How many groups can I make now, given this new constraint`?
+
+<hr>
+There are 9 balls, and you know that one ball is slightly heavier than all the rest. You also have an old-school scale - not digital - where all you can do is put some stuff on the left side, some of the right and it will tell you which side is heavier (or it will balance if both sides are equal).  You want to figure out the heavier ball.  `What's the smallest number of weighings you can use in order to guarantee that you will find the heavier ball?`
+
+<hr>
+A jailer lines up 10 prisoners in a row for a perverse game.  All prisoners are facing forward and can only see the prisoners in front of him.  As such, the prisoner in the back of the line can see all other prisoners and the prisoner at the front of the line can't see anyone.  The jailer then puts either a white or black hat on each prisoner's head.  Then the game begins.  Starting from the back of the line, the jailer asks the prisoners, one by one, for the color of his or her hat.  The prisoner lives only if he or she is correct about the color of their own hat.
+
+As usual, the prisoners are told ahead of time that this game will occur and are given time to come up with a strategy.  `What's their best strategy and, on average, how many prisoners will survive?`
+
+
+
+
