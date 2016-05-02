@@ -8,10 +8,10 @@ published: true
 `Square grid from round 1 (with correct wording)`
 
 <hr>
-`How many factors does 10,752 have`?
+I have 9 grapes, one apple, and one orange. A meal consists of some number of grapes (could be zero), some number of apples (could be zero), and some number of oranges (could be zero).  `How many meals can I make`?
 
 <hr>
-I have 9 grapes, one apple, and one orange. A meal consists of some number of grapes (could be zero), some number of apples (could be zero), and some number of oranges (could be zero).  `How many meals can I make`?
+`How many factors does 10,752 have`?
 
 <hr>
 10 kids in a class, let's say they're numbered 1 through 10.
