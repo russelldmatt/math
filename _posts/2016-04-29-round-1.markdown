@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Round 1"
-published: true
 ---
 
 ### Intro ###

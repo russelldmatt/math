@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Round 3"
+---
+
+<hr>
+You're going to roll a die.  Every time you roll it I will pay you $1, *unless* you roll a 6 in which case the game is over (and you aren't paid $1 for that roll).  When the game ends, you get to keep the money you've made up to that point.
+
+`What is the most you would pay me to allow you to play this game?`
+
+<hr>
+Same game as above, except when you roll a 6 the game ends and you lose all the money you made up to that point!  Obviously, if there was no other way for the game to end, other than you rolling a 6, you can't make any money - so I will allow you to choose to stop whenever you want.
+
+`What's your strategy, and, again, what's the most you woul dpay to play this game?`
+
+<hr>
+You and I play a game where we take turns rolling a die. I win if I roll a 4. You win if you roll a 5. The loser has to pay the other person $1, and you get to go first.
+
+`How much would you pay to play this game?`
+
+<hr>
+<img src="{{ site.baseurl }}/assets/red-black-cards.png" alt="Aces" width="200px">
+
+We are going to play a card game.  I will shuffle a standard deck of 52 cards and then flip over two cards at a time.
+
+- If the two cards are red, you get them in your pile.
+- If the two cards are black, I get them in my pile.
+- If the cards are one red and one black, we will put them into a side pile.
+
+Once I am through the entire deck, you count your pile and I will count mine.  If you have more cards in your pile than I have in mine, I will pay you $100.
+
+`What is the most that you would pay to play this game?`
+
+<hr>
+This game is similar to the first one, but you can make a lot more!
+
+Instead of rolling a die, you will be flipping a coin.  You flip until you get tails, then the game is over.  If it took you N flips to get a tails, then the amount you get paid is $$2^N$$.
+
+For example:
+
+- T -> only took 1 flip to get a tails, you get paid $$2^1$$, or $2.
+- HHT -> took 3 flips to get a tails, you get paid $$2^3$$, so $8.
+
+`How much would you pay to play this game?`
