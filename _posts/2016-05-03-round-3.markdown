@@ -3,6 +3,8 @@ layout: post
 title:  "Round 3"
 ---
 
+[Solutions/Explanations - don't click unless you're ready]({{ site.baseurl }}/solutions/round3.html)
+
 <hr>
 You're going to roll a die.  Every time you roll it I will pay you $1, *unless* you roll a 6 in which case the game is over (and you aren't paid $1 for that roll).  When the game ends, you get to keep the money you've made up to that point.
 
@@ -42,3 +44,5 @@ For example:
 - HHT -> took 3 flips to get a tails, you get paid $$2^3$$, so $8.
 
 `How much would you pay to play this game?`
+
+
