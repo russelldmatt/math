@@ -13,7 +13,7 @@ You're going to roll a die.  Every time you roll it I will pay you $1, *unless* 
 <hr>
 Same game as above, except when you roll a 6 the game ends and you lose all the money you made up to that point!  Obviously, if there was no other way for the game to end, other than you rolling a 6, you can't make any money - so I will allow you to choose to stop whenever you want.
 
-`What's your strategy, and, again, what's the most you woul dpay to play this game?`
+`What's your strategy, and, again, what's the most you would pay to play this game?`
 
 <hr>
 You and I play a game where we take turns rolling a die. I win if I roll a 4. You win if you roll a 5. The loser has to pay the other person $1, and you get to go first.
