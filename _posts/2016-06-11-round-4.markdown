@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Round 4"
+---
+
+I tried googling for expected value problems, and mostly found stuff that I think would be too easy.  However, if you want to take a look at this, go for it: [Practice with Expected Value](http://militantgrammarian.com/DAY/LSandSTAT/1314/Prob/ExpectedValuePractice%20with%20Solutions.pdf)
+
+<hr>
+#### 4.1 ####
+I'm going to randomly pick a card from a 52-card deck and pay you the face value of the card.  Let's say
+
+- J = $11
+- Q = $12
+- K = $13
+- A = $14
+
+Also, after I pick the card (and you see it) you can choose to take $5 instead.  `How much will you get paid, on average?`
+
+<hr>
+#### 4.2 ####
+I'm going to flip 10 coins and pay you $2 for each coin that comes up heads, *if* there are at least 5 heads.  Otherwise, I'll pay you nothing.  `How much will you get paid, on average?`
+
+<hr>
+#### 4.3 ####
+I'm going to roll a die and pay you $$3^N$$, where $$N$$ is the outcome of the die roll.  `How much will you get paid, on average?`
+
+For example, if I roll a 2, I'll pay you $$3^2 = 9$$ dollars.
+
+<hr>
+#### 4.4 ####
+The answer to this is subjective!  Don't google anything, just give me estimates:
+
+What do you think the `probability of rain is on Wed July 13 in Vancouver?`
+
+How about the `probability of rain on that Sat, July 16?`
+
+How about the `probability of rain that week (Mon July 11 - Sun July 17)?`
+
+<hr>
+#### 4.5 ####
+Cleveland Cavaliers are playing the Golden State Warriors in the NBA Finals, in a best of 7 series.  Let's just say that the warriors had a 60% chance to win any individual game, regardless of where it's played, or anything else.  `What's the probability that the Warriors win the series?`
+
+<hr>
+#### 4.6 ####
+UPS breaks fragile items all the time during shipping.  You have invented a new type of box which can protect fragile items, even from extreme events.  Before pitching this to VCs, you want to know the highest floor that you can drop your box from with an egg inside, without the egg breaking.  However, you want to waste the least number of boxes.  Any time you drop a box from any floor, that box is ruined - even if the egg doesn't break.
+
+You find a 100 story building.  `If your goal is to minimize the number of wasted boxes in the *worst case*, what's your strategy`?
+
+One additional piece of information is that I can tell you that the egg will break if you dropped your box from 101 stories.  I'm just telling you that so that if you try dropping it from the top floor (100) and it doesn't break, you know that 100 is the highest floor that you can drop your box from and still not break the egg - you don't have to go find a taller building and keep trying.
