@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Round 5"
+---
+
+<hr>
+#### 5.1 ####
+N people enter a room.  Everyone shakes everyone else's hand.  How many handshakes occur?
+
+<hr>
+#### 5.2 ####
+Two childhood friends, Bob and Sam, are in a dog park when they recognize each other from across the park. They start 2 miles from one another (good eyesight…) and each start to run at each other at a speed of 5 MPH.
+
+Bob’s dog, Scruffy, recognizes Sam as well and starts to sprint towards Sam at a speed of 25MPH. Once Scruffy reaches Sam he immediately turns around and starts running back towards Bob, turning around once again when he reaches Bob, continuing this until Bob and Sam meet.
+
+`How far does Scruffy run?`
+
+<hr>
+#### 5.3 ####
+`What’s the smallest number of people such that there is at least a 50% chance that two of them will share a birthday?`
+
+You can make the assumption that the birthday of each person is uniformly distributed throughout the year.
+
+<hr>
+#### 5.4 ####
+I'm going to flip a coin until I get HT - `on average, how many flips will it take?`
+
+`What about if I was waiting until HH?`
+
+<hr>
+#### 5.5 ####
+You are given two eggs, and access to a 100-storey building. Both eggs are identical. The aim is to find out the highest floor from which an egg will not break when dropped out of a window from that floor. If an egg is dropped and does not break, it is undamaged and can be dropped again. However, once an egg is broken, that’s it for that egg.
+
+If an egg breaks when dropped from floor n, then it would also have broken from any floor above that. If an egg survives a fall, then it will survive any fall shorter than that.
+
+The question is: `What strategy should you adopt to minimize the number egg drops it takes to find the solution?. (And what is the worst case for the number of drops it will take?)`
+
