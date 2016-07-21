@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Round 6"
+---
+
+<hr>
+#### 6.1 ####
+A high school has a strange principal. On the first day, he has his students perform an odd opening day ceremony:
+
+There are one thousand lockers and one thousand students in the school. The principal asks the first student to go to every locker and open it. Then he has the second student go to every second locker and close it. The third goes to every third locker and, if it is closed, he opens it, and if it is open, he closes it. The fourth student does this to every fourth locker, and so on. After the process is completed with the thousandth student, `how many lockers are open?`
+
+<hr>
+#### 6.2 ####
+
+<img src="{{ site.baseurl }}/assets/grid-with-blocks.png" style="width:400px"/>
+
+This is similar to a question in round 1, just a bit harder...
+
+Again you need to travel from the bottom left to the top right (from green starting point to green ending point).  You can only move up or to the right along the red lines.  You *cannot* touch the black.
+
+`How many ways can you get from the bottom left ot the top right?`
+
+<hr>
+#### 6.3 ####
+
+<img src="{{ site.baseurl }}/assets/dice.jpg" style="width:200px"/>
+
+I have a 6-sided die and an 8-sided die in a bag.  I close the bag and shake it up.  Then, I choose one die (randomly) from the bag, roll it, and I tell you that I've rolled a 3.  What's the probability that I chose the 6-sided die from the bag?
+

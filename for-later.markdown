@@ -21,19 +21,7 @@ P(fair-coin, i.e. pheads = 0.5) = 0.98, P(coin has pheads = 0.9) =
 "HHHHHHHHHH", what's your posterior distribution?
 
 ###
-A high school has a strange principal. On the first day, he has his students perform an odd opening day ceremony:
-
-There are one thousand lockers and one thousand students in the school. The principal asks the first student to go to every locker and open it. Then he has the second student go to every second locker and close it. The third goes to every third locker and, if it is closed, he opens it, and if it is open, he closes it. The fourth student does this to every fourth locker, and so on. After the process is completed with the thousandth student, `how many lockers are open?`
-
-###
 Two player game, we keep flipping a coin until one of two things happen.  If we ever see HHHHH (5 heads in a row) I immediately win $1.  If we ever see THHHH in a row, you immediatly win $1.  How much would you pay to play this game?
-
-###
-City grid, how many ways are there to get from A to B, with a big building taking up a few city blocks.
-
-###
-Jesse's bayes question
-6-sided die, 8-sided die in a bag, I pull one out randomly, roll it, and get a 3.  What's the prob I get the 6-sided?
 
 ###
 The probability of seeing a shooting star in 1 hour is 91%. What is the probability of seeing a shooting star in 30 minutes?  
